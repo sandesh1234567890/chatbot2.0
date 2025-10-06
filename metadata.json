@@ -1,0 +1,5 @@
+{
+  "name": "Modern Chat Bot",
+  "description": "A modern, customizable chat bot powered by the Google Gemini API. Engage in dynamic conversations with a sleek user interface, and tailor the bot's personality with custom system instructions.",
+  "requestFramePermissions": []
+}
